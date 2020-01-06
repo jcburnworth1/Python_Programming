@@ -7,7 +7,7 @@ from sklearn.linear_model import LinearRegression
 
 ## Read in the data
 ## Original data - https://s3.amazonaws.com/codecademy-content/programs/data-science-path/linear_regression/honeyproduction.csv
-honey_data = pd.read_csv("honey_production/honeyproduction.csv")
+honey_data = pd.read_csv("Python_Programming/machine_learning_examples/supervised/Regression/honey_production/honeyproduction.csv")
 
 ## Get a sense of the df structure
 print(honey_data.head())

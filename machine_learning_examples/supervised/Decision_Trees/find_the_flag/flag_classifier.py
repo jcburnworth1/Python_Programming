@@ -39,7 +39,7 @@ from sklearn.tree import DecisionTreeClassifier
 import matplotlib.pyplot as plt
 
 ##### Bring in the flag data #####
-flags_data = pd.read_csv('find_the_flag/flags.csv', header=0)
+flags_data = pd.read_csv('Python_Programming/machine_learning_examples/supervised/Decision_Trees/find_the_flag/flags.csv', header=0)
 
 ##### Data Exploration #####
 flag_columns = flags_data.columns

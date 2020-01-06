@@ -3,7 +3,7 @@ import pandas as pd
 from matplotlib import pyplot as plt
 
 ## Read in the data
-healthcare = pd.read_csv("us_healthcare/healthcare.csv")
+healthcare = pd.read_csv("Python_Programming/plotting/us_healthcare/healthcare.csv")
 
 ## Print the head of the data
 print(healthcare.head(10))
@@ -39,5 +39,5 @@ plt.figure(figsize=(20, 6))
 
 ## Draw our 50 boxplots
 plt.boxplot(datasets, labels=states)
-plt.savefig('us_healthcare/state_boxplots.png')
+plt.savefig('Python_Programming/plotting/us_healthcare/state_boxplots.png')
 plt.show()

@@ -3,7 +3,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 ## Load data from cereal.csv
-calories_stats = np.genfromtxt('crunchie_munchies/cereal.csv', delimiter=',')
+calories_stats = np.genfromtxt('Python_Programming/statistical_examples/crunchie_munchies_histogram/cereal.csv', delimiter=',')
 
 print(calories_stats)
 

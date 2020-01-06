@@ -60,10 +60,10 @@ def by_total_length(book_a, book_b):
     return len(book_a['author_lower']) + len(book_a['title_lower']) > len(book_b['author_lower']) + len(book_b['title_lower'])
 
 ## Read in the small list of books for developing algorithms
-bookshelf = load_books('books_small.csv')
+bookshelf = load_books('Python_Programming/computer_science/a_sorted_tale_bubble_sort/books_small.csv')
 bookshelf_v1 = bookshelf.copy()
 bookshelf_v2 = bookshelf.copy()
-long_bookshelf = load_books('books_large.csv')
+long_bookshelf = load_books('Python_Programming/computer_science/a_sorted_tale_bubble_sort/books_large.csv')
 
 ## Print out the titles
 print("##### Current Sort #####")

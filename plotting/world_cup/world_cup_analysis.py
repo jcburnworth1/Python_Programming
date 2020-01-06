@@ -4,8 +4,8 @@ import pandas as pd
 import seaborn as sns
 
 ## Read in the data
-world_cup_matches = pd.read_csv('world_cup/WorldCupMatches.csv')
-goals = pd.read_csv('world_cup/goals.csv')
+world_cup_matches = pd.read_csv('Python_Programming/plotting/world_cup/WorldCupMatches.csv')
+goals = pd.read_csv('Python_Programming/plotting/world_cup/goals.csv')
 
 ## Inspect world_cup_matches dataframe for clarity
 print(world_cup_matches.head(5))

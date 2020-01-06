@@ -1,6 +1,6 @@
 import pandas as pd
 
-dogs = pd.read_csv("fetchmaker/dog_data.csv")
+dogs = pd.read_csv("Python_Programming/statistical_examples/fetchmaker_binomial/dog_data.csv")
 
 def get_attribute(breed, attribute):
     if breed in dogs.breed.unique():

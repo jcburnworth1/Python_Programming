@@ -40,7 +40,7 @@ ax2.set_xticks(x_values)
 ax2.set_xticklabels(months)
 
 ## Save the image
-plt.savefig('sublime_limes/sublime_lime_report.png')
+plt.savefig('Python_Programming/plotting/sublime_limes/sublime_lime_report.png')
 
 ## Show chart(s)
 plt.show()

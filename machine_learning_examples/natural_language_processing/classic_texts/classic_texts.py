@@ -5,11 +5,11 @@ sys.path.append('/Users/jc.burnworth/Documents/Code/Python/Code_Academy/classic_
 
 ## Import libraries
 from nltk import pos_tag, RegexpParser
-from tokenize_words import word_sentence_tokenize
-from chunk_counters import np_chunk_counter, vp_chunk_counter
+from Python_Programming.machine_learning_examples.natural_language_processing.classic_texts.tokenize_words import word_sentence_tokenize
+from Python_Programming.machine_learning_examples.natural_language_processing.classic_texts.chunk_counters import np_chunk_counter, vp_chunk_counter
 
 # import text of choice here
-text = open("/Users/jc.burnworth/Documents/Code/Python/Code_Academy/classic_texts/dorian_gray.txt",
+text = open("Python_Programming/machine_learning_examples/natural_language_processing/classic_texts/dorian_gray.txt",
             encoding='utf-8').read().lower()
 
 # sentence and word tokenize text here

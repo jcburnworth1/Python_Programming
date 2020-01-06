@@ -1,4 +1,4 @@
-from vertex import Vertex
+from  Python_Programming.basic_python.maze_explorer_classes.vertex import Vertex
 
 class Graph:
     def __init__(self):

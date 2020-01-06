@@ -1,5 +1,5 @@
 ## Towers of Hanoi - CodeAcademy
-from stack import Stack
+from Python_Programming.computer_science.towers_of_hanoi_stacks.stack import Stack
 
 ## Start the game
 print("\nLet's play Towers of Hanoi!!")

@@ -4,12 +4,12 @@ from sklearn.neighbors import KNeighborsRegressor
 
 ## Establish movie_dataset & movie_ratings from pickle files
 ## Dataset
-file = open('machine_learning_examples/supervised/K_Nearest_Neighbors/movie_dataset.pkl', 'rb')
+file = open('Python_Programming/machine_learning_examples/supervised/K_Nearest_Neighbors/movie_dataset.pkl', 'rb')
 
 movie_dataset = pickle.load(file)
 
 ## Ratings
-file = open('machine_learning_examples/supervised/K_Nearest_Neighbors/movie_ratings.pkl', 'rb')
+file = open('Python_Programming/machine_learning_examples/supervised/K_Nearest_Neighbors/movie_ratings.pkl', 'rb')
 
 movie_ratings = pickle.load(file)
 

@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 ## Import the data
-ad_clicks = pd.read_csv('shoefly/ad_clicks.csv')
+ad_clicks = pd.read_csv('Python_Programming/plotting/shoefly/ad_clicks.csv')
 
 ## Examine the first rows of ad_clicks
 print(ad_clicks.head(10))

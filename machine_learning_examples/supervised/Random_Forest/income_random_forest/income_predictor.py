@@ -10,7 +10,7 @@ from sklearn.ensemble import RandomForestClassifier
 from datetime import datetime
 
 ## Read in the data - Source - https://archive.ics.uci.edu/ml/datasets/census+income
-income_data = pd.read_csv("income_random_forest/income.csv", header=0, delimiter=', ')
+income_data = pd.read_csv("Python_Programming/machine_learning_examples/supervised/Random_Forest/income_random_forest/income.csv", header=0, delimiter=', ')
 
 ##### Explore the data #####
 ## Print the head

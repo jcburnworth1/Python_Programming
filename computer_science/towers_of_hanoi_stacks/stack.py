@@ -1,4 +1,4 @@
-from node import Node
+from Python_Programming.computer_science.towers_of_hanoi_stacks.node import Node
 
 class Stack:
     def __init__(self, name):

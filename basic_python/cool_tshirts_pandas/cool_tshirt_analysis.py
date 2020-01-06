@@ -2,10 +2,10 @@
 import pandas as pd
 
 ## Read in the data
-visits = pd.read_csv('cool_tshirts/visit.csv', parse_dates=[1])
-cart = pd.read_csv('cool_tshirts/cart.csv', parse_dates=[1])
-checkout = pd.read_csv('cool_tshirts/checkout.csv', parse_dates=[1])
-purchase = pd.read_csv('cool_tshirts/purchase.csv', parse_dates=[1])
+visits = pd.read_csv('Python_Programming/basic_python/cool_tshirts_pandas/visit.csv', parse_dates=[1])
+cart = pd.read_csv('Python_Programming/basic_python/cool_tshirts_pandas/cart.csv', parse_dates=[1])
+checkout = pd.read_csv('Python_Programming/basic_python/cool_tshirts_pandas/checkout.csv', parse_dates=[1])
+purchase = pd.read_csv('Python_Programming/basic_python/cool_tshirts_pandas/purchase.csv', parse_dates=[1])
 
 ## View head of each df
 ## Visits

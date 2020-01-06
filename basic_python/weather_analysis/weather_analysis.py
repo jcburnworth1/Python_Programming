@@ -1,7 +1,6 @@
-import codecademylib3_seaborn
 import pandas as pd
 import numpy as np
-from weather_data import london_data
+from Python_Programming.basic_python.weather_analysis.weather_data import london_data
 
 # print(london_data.head(10))
 # print(len(london_data))

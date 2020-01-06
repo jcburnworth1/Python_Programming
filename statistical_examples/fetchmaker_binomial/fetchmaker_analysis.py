@@ -1,9 +1,5 @@
-## Add fetchmaker folder to sys.path
-import sys
-sys.path.insert(0, '/Users/jc.burnworth/Documents/Code/Python/Code_Academy/fetchmaker')
-
 ## Import libraries
-import fetchmaker
+import Python_Programming.statistical_examples.fetchmaker_binomial.fetchmaker as fetchmaker
 import numpy as np
 from scipy.stats import binom_test
 from scipy.stats import f_oneway

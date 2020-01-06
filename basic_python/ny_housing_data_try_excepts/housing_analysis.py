@@ -4,13 +4,13 @@ import pandas as pd
 from scipy import stats
 
 # Read in housing data
-brooklyn_one_bed = pd.read_csv('ny_housing_data/brooklyn-one-bed.csv')
+brooklyn_one_bed = pd.read_csv('Python_Programming/basic_python/ny_housing_data_try_excepts/brooklyn-one-bed.csv')
 brooklyn_price = brooklyn_one_bed['rent']
 
-manhattan_one_bed = pd.read_csv('ny_housing_data/manhattan-one-bed.csv')
+manhattan_one_bed = pd.read_csv('Python_Programming/basic_python/ny_housing_data_try_excepts/manhattan-one-bed.csv')
 manhattan_price = manhattan_one_bed['rent']
 
-queens_one_bed = pd.read_csv('ny_housing_data/queens-one-bed.csv')
+queens_one_bed = pd.read_csv('Python_Programming/basic_python/ny_housing_data_try_excepts/queens-one-bed.csv')
 queens_price = queens_one_bed['rent']
 
 # Add mean calculations below

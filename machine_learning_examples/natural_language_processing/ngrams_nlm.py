@@ -3,7 +3,7 @@ from nltk.tokenize import word_tokenize
 # importing ngrams module from nltk
 from nltk.util import ngrams
 from collections import Counter
-from looking_glass import looking_glass_full_text
+# from looking_glass import looking_glass_full_text
 
 looking_glass_full_text = """
  CHAPTER I. Looking-Glass house

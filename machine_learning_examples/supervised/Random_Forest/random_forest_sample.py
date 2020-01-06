@@ -1,13 +1,9 @@
-## Add familiar folder to sys.path
-import sys
-sys.path.insert(0, '/Users/jc.burnworth/Documents/Code/Python/Code_Academy/machine_learning_examples/supervised/Random_Forest/')
-
 ## Import libraries
 def warn(*args, **kwargs):
     pass
 import warnings
 warnings.warn = warn
-from cars import training_points, training_labels, testing_points, testing_labels
+from Python_Programming.machine_learning_examples.supervised.Random_Forest.cars import training_points, training_labels, testing_points, testing_labels
 from sklearn.ensemble import RandomForestClassifier
 
 ## Create our random forest classifier

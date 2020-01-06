@@ -1,9 +1,5 @@
-## Add familiar folder to sys.path
-import sys
-sys.path.insert(0, '/Users/jc.burnworth/Documents/Code/Python/Code_Academy/machine_learning_examples/supervised/Decision_Trees/')
-
 ## Import libraries
-from cars import training_points, training_labels, testing_points, testing_labels
+from Python_Programming.machine_learning_examples.supervised.Decision_Trees.cars import training_points, training_labels, testing_points, testing_labels
 from sklearn.tree import DecisionTreeClassifier
 from matplotlib import pyplot as plt
 

@@ -7,7 +7,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 
 ## Load the passenger data
-passengers = pd.read_csv('titanic_survival/titanic_data.csv')
+passengers = pd.read_csv('Python_Programming/machine_learning_examples/supervised/Regression/titanic_survival_logistic_regression/titanic_data.csv')
 
 ## Update sex column to numerical
 passengers['Sex'] = [1 if sex == 'female' else 0 for sex in passengers['Sex']]

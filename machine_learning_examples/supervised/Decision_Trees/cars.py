@@ -3,7 +3,7 @@ import random
 random.seed(1)
 
 def make_cars():
-    f = open("/Users/jc.burnworth/Documents/Code/Python/Code_Academy/machine_learning_examples/supervised/Decision_Trees/cars.data", "r")
+    f = open("Python_Programming/machine_learning_examples/supervised/Decision_Trees/cars.data", "r")
     cars = []
     for line in f:
         cars.append(line.rstrip().split(","))

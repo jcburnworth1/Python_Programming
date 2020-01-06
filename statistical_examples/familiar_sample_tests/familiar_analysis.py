@@ -1,9 +1,5 @@
-## Add familiar folder to sys.path
-import sys
-sys.path.insert(0, '/Users/jc.burnworth/Documents/Code/Python/Code_Academy/familiar')
-
 ## Import libraries
-import familiar
+import Python_Programming.statistical_examples.familiar_sample_tests.familiar as familiar
 import numpy as np
 from scipy.stats import ttest_1samp
 from scipy.stats import ttest_ind

@@ -1,9 +1,5 @@
-## Add nosh_mish_mosh folder to sys.path
-import sys
-sys.path.insert(0, '/Users/jc.burnworth/Documents/Code/Python/Code_Academy/nosh_mish_mosh')
-
 ## Import libraries
-import nosh_mish_mosh
+import Python_Programming.statistical_examples.nosh_mish_mosh_minimum_effect.nosh_mish_mosh as nosh_mish_mosh
 import numpy as np
 
 ## Load data

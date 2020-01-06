@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 ## Read in the data
-data = pd.read_csv("life_expectancy/country_data.csv")
+data = pd.read_csv("Python_Programming/plotting/life_expectancy/country_data.csv")
 
 ## Print the head of the data
 print(data.head(10))

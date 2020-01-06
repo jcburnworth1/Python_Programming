@@ -4,12 +4,12 @@ from sklearn.neighbors import KNeighborsClassifier
 
 ## Establish movie_dataset & movie_labels from pickle files
 ## Dataset
-file = open('machine_learning_examples/supervised/K_Nearest_Neighbors/movie_dataset.pkl', 'rb')
+file = open('Python_Programming/machine_learning_examples/supervised/K_Nearest_Neighbors/movie_dataset.pkl', 'rb')
 
 movie_dataset = pickle.load(file)
 
 ## Labels
-file = open('machine_learning_examples/supervised/K_Nearest_Neighbors/movie_labels.pkl', 'rb')
+file = open('Python_Programming/machine_learning_examples/supervised/K_Nearest_Neighbors//movie_labels.pkl', 'rb')
 
 movie_labels = pickle.load(file)
 
