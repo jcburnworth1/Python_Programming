@@ -16,11 +16,11 @@ conn.starttls()
 ## Login into gmail - This will get blocked if gmail 'Less Secure App Access' is off
 ## See google app specific password for safety instead of using 'Less Secure App Access'
 conn.login(user='email',
-           password='passs')
+           password='password')
 
 ## Send an email
 conn.sendmail(from_addr='jcburnworth1@gmail.com',
-              to_addrs='laurencgoeddel@gmail.com',
+              to_addrs='jcburnworth1@gmail.com',
               ## Format for subject and body
               msg='Subject: Test Email\n\nHi Lauren\nFrom my python app\nLove J')
 
