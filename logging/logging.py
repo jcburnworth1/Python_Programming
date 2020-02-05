@@ -17,6 +17,7 @@ logging.basicConfig(filename='Python_Programming/logging/loggingExample1.txt',
 
 logging.debug('Start of program')
 
+## Buggy Factorial code
 def factorial(n):
     logging.debug('Start of factorial({0})'.format(n))
     total = 1
