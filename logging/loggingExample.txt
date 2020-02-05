@@ -1,0 +1,27 @@
+2020-02-04 22:21:36,680 - DEBUG - Start of program
+2020-02-04 22:21:36,680 - DEBUG - Start of factorial(5)
+2020-02-04 22:21:36,680 - INFO - i: 1, total: 1
+2020-02-04 22:21:36,680 - INFO - i: 2, total: 2
+2020-02-04 22:21:36,680 - INFO - i: 3, total: 6
+2020-02-04 22:21:36,680 - INFO - i: 4, total: 24
+2020-02-04 22:21:36,680 - INFO - i: 5, total: 120
+2020-02-04 22:21:36,680 - DEBUG - Return value: 120
+2020-02-04 22:21:36,681 - DEBUG - End of program
+2020-02-04 22:22:46,977 - DEBUG - Start of program
+2020-02-04 22:22:46,977 - DEBUG - Start of factorial(5)
+2020-02-04 22:22:46,977 - INFO - i: 1, total: 1
+2020-02-04 22:22:46,977 - INFO - i: 2, total: 2
+2020-02-04 22:22:46,977 - INFO - i: 3, total: 6
+2020-02-04 22:22:46,977 - INFO - i: 4, total: 24
+2020-02-04 22:22:46,977 - INFO - i: 5, total: 120
+2020-02-04 22:22:46,977 - DEBUG - Return value: 120
+2020-02-04 22:22:46,977 - DEBUG - End of program
+2020-02-04 22:22:58,537 - DEBUG - Start of program
+2020-02-04 22:22:58,537 - DEBUG - Start of factorial(5)
+2020-02-04 22:22:58,538 - INFO - i: 1, total: 1
+2020-02-04 22:22:58,538 - INFO - i: 2, total: 2
+2020-02-04 22:22:58,538 - INFO - i: 3, total: 6
+2020-02-04 22:22:58,538 - INFO - i: 4, total: 24
+2020-02-04 22:22:58,538 - INFO - i: 5, total: 120
+2020-02-04 22:22:58,538 - DEBUG - Return value: 120
+2020-02-04 22:22:58,538 - DEBUG - End of program
