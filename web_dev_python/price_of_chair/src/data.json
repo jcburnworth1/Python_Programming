@@ -1,0 +1,15 @@
+//JSON example
+{
+  "students": [
+    {
+      "name": "jose",
+      "mark": 100,
+      "id": "345897349"
+    },
+    {
+      "name": "mark",
+      "mark": 195,
+      "id": "907343"
+    }
+  ]
+}
