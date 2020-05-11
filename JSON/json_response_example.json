@@ -1,0 +1,899 @@
+{
+  'businesses': [
+    {
+      'id': 'HUlbrPvAr6sXuBfp5z1MWA',
+      'alias': 'urban-backyard-new-york',
+      'name': 'Urban Backyard',
+      'image_url': 'https://s3-media2.fl.yelpcdn.com/bphoto/uEuwZMLBWP4VhkkV7RFdcw/o.jpg',
+      'is_closed': False,
+      'url': 'https://www.yelp.com/biz/urban-backyard-new-york?adjust_creative=YGos7XrPBDMYw8DquZpx1g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YGos7XrPBDMYw8DquZpx1g',
+      'review_count': 148,
+      'categories': [
+        {
+          'alias': 'coffee',
+          'title': 'Coffee & Tea'
+        }
+      ],
+      'rating': 5.0,
+      'coordinates': {
+        'latitude': 40.72077,
+        'longitude': -73.99646
+      },
+      'transactions': [
+        'pickup',
+        'delivery'
+      ],
+      'price': '$$',
+      'location': {
+        'address1': '180 Mulberry St',
+        'address2': None,
+        'address3': '',
+        'city': 'New York',
+        'zip_code': '10012',
+        'country': 'US',
+        'state': 'NY',
+        'display_address': [
+          '180 Mulberry St',
+          'New York, NY 10012'
+        ]
+      },
+      'phone': '+16466929957',
+      'display_phone': '(646) 692-9957',
+      'distance': 1716.018342303412
+    },
+    {
+      'id': 'SZXOfQbLyF3C5GwYBj6VvA',
+      'alias': 'saltwater-coffee-new-york',
+      'name': 'Saltwater Coffee',
+      'image_url': 'https://s3-media1.fl.yelpcdn.com/bphoto/cdBBTyVhiBft09uTwGStcw/o.jpg',
+      'is_closed': False,
+      'url': 'https://www.yelp.com/biz/saltwater-coffee-new-york?adjust_creative=YGos7XrPBDMYw8DquZpx1g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YGos7XrPBDMYw8DquZpx1g',
+      'review_count': 211,
+      'categories': [
+        {
+          'alias': 'coffee',
+          'title': 'Coffee & Tea'
+        }
+      ],
+      'rating': 4.5,
+      'coordinates': {
+        'latitude': 40.7304578,
+        'longitude': -73.9839175
+      },
+      'transactions': [],
+      'price': '$$',
+      'location': {
+        'address1': '345 E 12th St',
+        'address2': None,
+        'address3': '',
+        'city': 'New York',
+        'zip_code': '10003',
+        'country': 'US',
+        'state': 'NY',
+        'display_address': [
+          '345 E 12th St',
+          'New York, NY 10003'
+        ]
+      },
+      'phone': '+19178812245',
+      'display_phone': '(917) 881-2245',
+      'distance': 2915.5320769059854
+    },
+    {
+      'id': 'CHBDkg9U4xx6uDanE6tGvA',
+      'alias': 'coffee-project-new-york-brooklyn',
+      'name': 'Coffee Project New York',
+      'image_url': 'https://s3-media2.fl.yelpcdn.com/bphoto/vdbv81x3BFTR0pskJAj1HA/o.jpg',
+      'is_closed': False,
+      'url': 'https://www.yelp.com/biz/coffee-project-new-york-brooklyn?adjust_creative=YGos7XrPBDMYw8DquZpx1g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YGos7XrPBDMYw8DquZpx1g',
+      'review_count': 59,
+      'categories': [
+        {
+          'alias': 'coffee',
+          'title': 'Coffee & Tea'
+        },
+        {
+          'alias': 'sandwiches',
+          'title': 'Sandwiches'
+        }
+      ],
+      'rating': 5.0,
+      'coordinates': {
+        'latitude': 40.6875927899466,
+        'longitude': -73.9792491098683
+      },
+      'transactions': [],
+      'price': '$$',
+      'location': {
+        'address1': '78 Rockwell Pl',
+        'address2': None,
+        'address3': '',
+        'city': 'Brooklyn',
+        'zip_code': '11217',
+        'country': 'US',
+        'state': 'NY',
+        'display_address': [
+          '78 Rockwell Pl',
+          'Brooklyn, NY 11217'
+        ]
+      },
+      'phone': '+15858883153',
+      'display_phone': '(585) 888-3153',
+      'distance': 2358.538670417839
+    },
+    {
+      'id': 'WHRHK3S1mQc3PmhwsGRvbw',
+      'alias': 'bibble-and-sip-new-york-2',
+      'name': 'Bibble & Sip',
+      'image_url': 'https://s3-media2.fl.yelpcdn.com/bphoto/jf84Chsb5Ng76BdwMgLZsw/o.jpg',
+      'is_closed': False,
+      'url': 'https://www.yelp.com/biz/bibble-and-sip-new-york-2?adjust_creative=YGos7XrPBDMYw8DquZpx1g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YGos7XrPBDMYw8DquZpx1g',
+      'review_count': 4780,
+      'categories': [
+        {
+          'alias': 'coffee',
+          'title': 'Coffee & Tea'
+        },
+        {
+          'alias': 'bakeries',
+          'title': 'Bakeries'
+        }
+      ],
+      'rating': 4.5,
+      'coordinates': {
+        'latitude': 40.76282,
+        'longitude': -73.98518
+      },
+      'transactions': [
+        'pickup',
+        'delivery'
+      ],
+      'price': '$',
+      'location': {
+        'address1': '253 W 51st St',
+        'address2': '',
+        'address3': '',
+        'city': 'New York',
+        'zip_code': '10019',
+        'country': 'US',
+        'state': 'NY',
+        'display_address': [
+          '253 W 51st St',
+          'New York, NY 10019'
+        ]
+      },
+      'phone': '+16466495116',
+      'display_phone': '(646) 649-5116',
+      'distance': 6427.9212521553545
+    },
+    {
+      'id': 'nyxmTe-It-tzfagvjkge1g',
+      'alias': 'burrow-brooklyn',
+      'name': 'Burrow',
+      'image_url': 'https://s3-media1.fl.yelpcdn.com/bphoto/oAg_RiYyeMnUO5bY_eIOQw/o.jpg',
+      'is_closed': False,
+      'url': 'https://www.yelp.com/biz/burrow-brooklyn?adjust_creative=YGos7XrPBDMYw8DquZpx1g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YGos7XrPBDMYw8DquZpx1g',
+      'review_count': 78,
+      'categories': [
+        {
+          'alias': 'desserts',
+          'title': 'Desserts'
+        },
+        {
+          'alias': 'cakeshop',
+          'title': 'Patisserie/Cake Shop'
+        },
+        {
+          'alias': 'coffee',
+          'title': 'Coffee & Tea'
+        }
+      ],
+      'rating': 4.5,
+      'coordinates': {
+        'latitude': 40.7027217,
+        'longitude': -73.9868878
+      },
+      'transactions': [],
+      'price': '$',
+      'location': {
+        'address1': '68 Jay St',
+        'address2': 'Ste 119',
+        'address3': '',
+        'city': 'Brooklyn',
+        'zip_code': '11201',
+        'country': 'US',
+        'state': 'NY',
+        'display_address': [
+          '68 Jay St',
+          'Ste 119',
+          'Brooklyn, NY 11201'
+        ]
+      },
+      'phone': '',
+      'display_phone': '',
+      'distance': 693.8065652395189
+    },
+    {
+      'id': '1aD88qNRb08LGBkl84GQTA',
+      'alias': 'little-collins-new-york-3',
+      'name': 'Little Collins',
+      'image_url': 'https://s3-media2.fl.yelpcdn.com/bphoto/Y52xQoubzZS4Etd7LHPwIg/o.jpg',
+      'is_closed': False,
+      'url': 'https://www.yelp.com/biz/little-collins-new-york-3?adjust_creative=YGos7XrPBDMYw8DquZpx1g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YGos7XrPBDMYw8DquZpx1g',
+      'review_count': 824,
+      'categories': [
+        {
+          'alias': 'coffee',
+          'title': 'Coffee & Tea'
+        },
+        {
+          'alias': 'breakfast_brunch',
+          'title': 'Breakfast & Brunch'
+        },
+        {
+          'alias': 'sandwiches',
+          'title': 'Sandwiches'
+        }
+      ],
+      'rating': 4.5,
+      'coordinates': {
+        'latitude': 40.759912,
+        'longitude': -73.96964
+      },
+      'transactions': [
+        'pickup',
+        'delivery'
+      ],
+      'price': '$$',
+      'location': {
+        'address1': '667 Lexington Ave',
+        'address2': '',
+        'address3': None,
+        'city': 'New York',
+        'zip_code': '10022',
+        'country': 'US',
+        'state': 'NY',
+        'display_address': [
+          '667 Lexington Ave',
+          'New York, NY 10022'
+        ]
+      },
+      'phone': '+12123081969',
+      'display_phone': '(212) 308-1969',
+      'distance': 6402.7922098556155
+    },
+    {
+      'id': '6IdG1EY4qZ_X9GtqIAmQEg',
+      'alias': 'postmark-cafe-brooklyn',
+      'name': 'Postmark Cafe',
+      'image_url': 'https://s3-media4.fl.yelpcdn.com/bphoto/eBtKTxqAO3Y_tViI__Awcg/o.jpg',
+      'is_closed': False,
+      'url': 'https://www.yelp.com/biz/postmark-cafe-brooklyn?adjust_creative=YGos7XrPBDMYw8DquZpx1g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YGos7XrPBDMYw8DquZpx1g',
+      'review_count': 191,
+      'categories': [
+        {
+          'alias': 'coffee',
+          'title': 'Coffee & Tea'
+        },
+        {
+          'alias': 'cafes',
+          'title': 'Cafes'
+        }
+      ],
+      'rating': 4.5,
+      'coordinates': {
+        'latitude': 40.6710865,
+        'longitude': -73.9852
+      },
+      'transactions': [],
+      'price': '$',
+      'location': {
+        'address1': '326 6th St',
+        'address2': None,
+        'address3': '',
+        'city': 'Brooklyn',
+        'zip_code': '11215',
+        'country': 'US',
+        'state': 'NY',
+        'display_address': [
+          '326 6th St',
+          'Brooklyn, NY 11215'
+        ]
+      },
+      'phone': '+17187682613',
+      'display_phone': '(718) 768-2613',
+      'distance': 3896.6433386546455
+    },
+    {
+      'id': 'd_-5wTKDIEP6QwTaDfHCKA',
+      'alias': 'grandlo-cafe-new-york-3',
+      'name': 'GrandLo Cafe',
+      'image_url': 'https://s3-media2.fl.yelpcdn.com/bphoto/64wJJRMDh6VubvRPKoQCTQ/o.jpg',
+      'is_closed': False,
+      'url': 'https://www.yelp.com/biz/grandlo-cafe-new-york-3?adjust_creative=YGos7XrPBDMYw8DquZpx1g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YGos7XrPBDMYw8DquZpx1g',
+      'review_count': 45,
+      'categories': [
+        {
+          'alias': 'coffee',
+          'title': 'Coffee & Tea'
+        },
+        {
+          'alias': 'cafes',
+          'title': 'Cafes'
+        },
+        {
+          'alias': 'breakfast_brunch',
+          'title': 'Breakfast & Brunch'
+        }
+      ],
+      'rating': 4.5,
+      'coordinates': {
+        'latitude': 40.7168074,
+        'longitude': -73.9854576
+      },
+      'transactions': [],
+      'location': {
+        'address1': '168 Broome St',
+        'address2': None,
+        'address3': '',
+        'city': 'New York',
+        'zip_code': '10002',
+        'country': 'US',
+        'state': 'NY',
+        'display_address': [
+          '168 Broome St',
+          'New York, NY 10002'
+        ]
+      },
+      'phone': '+16462014296',
+      'display_phone': '(646) 201-4296',
+      'distance': 1463.2541237905202
+    },
+    {
+      'id': 'Smj-UqUvNFneHKkuZ0BN7A',
+      'alias': 'kona-coffee-and-company-new-york',
+      'name': 'Kona Coffee and Company',
+      'image_url': 'https://s3-media4.fl.yelpcdn.com/bphoto/lV30WCpdxbOly1wiMjsS_g/o.jpg',
+      'is_closed': False,
+      'url': 'https://www.yelp.com/biz/kona-coffee-and-company-new-york?adjust_creative=YGos7XrPBDMYw8DquZpx1g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YGos7XrPBDMYw8DquZpx1g',
+      'review_count': 116,
+      'categories': [
+        {
+          'alias': 'coffee',
+          'title': 'Coffee & Tea'
+        },
+        {
+          'alias': 'coffeeroasteries',
+          'title': 'Coffee Roasteries'
+        },
+        {
+          'alias': 'cafes',
+          'title': 'Cafes'
+        }
+      ],
+      'rating': 4.5,
+      'coordinates': {
+        'latitude': 40.72587,
+        'longitude': -73.98988
+      },
+      'transactions': [],
+      'price': '$$',
+      'location': {
+        'address1': '57 2nd Ave',
+        'address2': '',
+        'address3': None,
+        'city': 'New York',
+        'zip_code': '10003',
+        'country': 'US',
+        'state': 'NY',
+        'display_address': [
+          '57 2nd Ave',
+          'New York, NY 10003'
+        ]
+      },
+      'phone': '+12125985977',
+      'display_phone': '(212) 598-5977',
+      'distance': 2308.140222153645
+    },
+    {
+      'id': 'aafj0sUR__011Dm5EZ_TFg',
+      'alias': 'bibble-and-sip-new-york-5',
+      'name': 'Bibble & Sip',
+      'image_url': 'https://s3-media3.fl.yelpcdn.com/bphoto/PDh0PaH3ipIuQsBdbHQfhg/o.jpg',
+      'is_closed': False,
+      'url': 'https://www.yelp.com/biz/bibble-and-sip-new-york-5?adjust_creative=YGos7XrPBDMYw8DquZpx1g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YGos7XrPBDMYw8DquZpx1g',
+      'review_count': 164,
+      'categories': [
+        {
+          'alias': 'bakeries',
+          'title': 'Bakeries'
+        },
+        {
+          'alias': 'coffee',
+          'title': 'Coffee & Tea'
+        }
+      ],
+      'rating': 4.5,
+      'coordinates': {
+        'latitude': 40.71796,
+        'longitude': -73.99761
+      },
+      'transactions': [],
+      'price': '$',
+      'location': {
+        'address1': '174 Hester St',
+        'address2': None,
+        'address3': '',
+        'city': 'New York',
+        'zip_code': '10013',
+        'country': 'US',
+        'state': 'NY',
+        'display_address': [
+          '174 Hester St',
+          'New York, NY 10013'
+        ]
+      },
+      'phone': '',
+      'display_phone': '',
+      'distance': 1417.1214277803097
+    },
+    {
+      'id': 'wWhZvkaFrntlSf1CWvD1Zw',
+      'alias': 'cafe-patoro-new-york',
+      'name': 'Cafe Patoro',
+      'image_url': 'https://s3-media2.fl.yelpcdn.com/bphoto/Nnlsd9Wl7KFVVqZxtDRWpw/o.jpg',
+      'is_closed': False,
+      'url': 'https://www.yelp.com/biz/cafe-patoro-new-york?adjust_creative=YGos7XrPBDMYw8DquZpx1g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YGos7XrPBDMYw8DquZpx1g',
+      'review_count': 170,
+      'categories': [
+        {
+          'alias': 'bakeries',
+          'title': 'Bakeries'
+        },
+        {
+          'alias': 'brazilian',
+          'title': 'Brazilian'
+        },
+        {
+          'alias': 'coffee',
+          'title': 'Coffee & Tea'
+        }
+      ],
+      'rating': 4.5,
+      'coordinates': {
+        'latitude': 40.7072720974983,
+        'longitude': -74.0023160353303
+      },
+      'transactions': [
+        'pickup',
+        'delivery'
+      ],
+      'price': '$',
+      'location': {
+        'address1': '223 Front St',
+        'address2': '',
+        'address3': '',
+        'city': 'New York',
+        'zip_code': '10038',
+        'country': 'US',
+        'state': 'NY',
+        'display_address': [
+          '223 Front St',
+          'New York, NY 10038'
+        ]
+      },
+      'phone': '+19172620031',
+      'display_phone': '(917) 262-0031',
+      'distance': 706.1266596183273
+    },
+    {
+      'id': 'vZevXSC1w27dEvXc2EHCEg',
+      'alias': 'good-thanks-nyc-new-york',
+      'name': 'Good Thanks NYC',
+      'image_url': 'https://s3-media2.fl.yelpcdn.com/bphoto/gGscgYBdGsK7vIt7uylpNQ/o.jpg',
+      'is_closed': False,
+      'url': 'https://www.yelp.com/biz/good-thanks-nyc-new-york?adjust_creative=YGos7XrPBDMYw8DquZpx1g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YGos7XrPBDMYw8DquZpx1g',
+      'review_count': 164,
+      'categories': [
+        {
+          'alias': 'cafes',
+          'title': 'Cafes'
+        },
+        {
+          'alias': 'coffee',
+          'title': 'Coffee & Tea'
+        },
+        {
+          'alias': 'breakfast_brunch',
+          'title': 'Breakfast & Brunch'
+        }
+      ],
+      'rating': 4.5,
+      'coordinates': {
+        'latitude': 40.71972,
+        'longitude': -73.98952
+      },
+      'transactions': [
+        'pickup',
+        'delivery'
+      ],
+      'price': '$$',
+      'location': {
+        'address1': '131A Orchard St',
+        'address2': None,
+        'address3': None,
+        'city': 'New York',
+        'zip_code': '10002',
+        'country': 'US',
+        'state': 'NY',
+        'display_address': [
+          '131A Orchard St',
+          'New York, NY 10002'
+        ]
+      },
+      'phone': '',
+      'display_phone': '',
+      'distance': 1640.2291870611812
+    },
+    {
+      'id': 'YpGxtJy9ErnjfGG6DXy5uA',
+      'alias': 'sweatshop-williamsburg',
+      'name': 'Sweatshop',
+      'image_url': 'https://s3-media2.fl.yelpcdn.com/bphoto/cx_7Aqq55YRL4rs-Hj3yeg/o.jpg',
+      'is_closed': False,
+      'url': 'https://www.yelp.com/biz/sweatshop-williamsburg?adjust_creative=YGos7XrPBDMYw8DquZpx1g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YGos7XrPBDMYw8DquZpx1g',
+      'review_count': 352,
+      'categories': [
+        {
+          'alias': 'coffee',
+          'title': 'Coffee & Tea'
+        },
+        {
+          'alias': 'breakfast_brunch',
+          'title': 'Breakfast & Brunch'
+        }
+      ],
+      'rating': 4.5,
+      'coordinates': {
+        'latitude': 40.7149542040034,
+        'longitude': -73.959786
+      },
+      'transactions': [],
+      'price': '$$',
+      'location': {
+        'address1': '232 Metropolitan Ave',
+        'address2': '',
+        'address3': '',
+        'city': 'Williamsburg',
+        'zip_code': '11211',
+        'country': 'US',
+        'state': 'NY',
+        'display_address': [
+          '232 Metropolitan Ave',
+          'Williamsburg, NY 11211'
+        ]
+      },
+      'phone': '+19179607232',
+      'display_phone': '(917) 960-7232',
+      'distance': 3094.7757917745057
+    },
+    {
+      'id': 'Qmv4SPta2zx7MhKit8ywag',
+      'alias': 'absolute-coffee-brooklyn',
+      'name': 'Absolute Coffee',
+      'image_url': 'https://s3-media2.fl.yelpcdn.com/bphoto/lTdTvV3OZsaDhPD71E67Sw/o.jpg',
+      'is_closed': False,
+      'url': 'https://www.yelp.com/biz/absolute-coffee-brooklyn?adjust_creative=YGos7XrPBDMYw8DquZpx1g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YGos7XrPBDMYw8DquZpx1g',
+      'review_count': 174,
+      'categories': [
+        {
+          'alias': 'coffee',
+          'title': 'Coffee & Tea'
+        },
+        {
+          'alias': 'bakeries',
+          'title': 'Bakeries'
+        }
+      ],
+      'rating': 4.5,
+      'coordinates': {
+        'latitude': 40.68827,
+        'longitude': -73.987569
+      },
+      'transactions': [],
+      'price': '$$',
+      'location': {
+        'address1': '327 Atlantic Ave',
+        'address2': None,
+        'address3': '',
+        'city': 'Brooklyn',
+        'zip_code': '11201',
+        'country': 'US',
+        'state': 'NY',
+        'display_address': [
+          '327 Atlantic Ave',
+          'Brooklyn, NY 11201'
+        ]
+      },
+      'phone': '+17185220969',
+      'display_phone': '(718) 522-0969',
+      'distance': 1995.2838490428082
+    },
+    {
+      'id': 'COV3XLEiAiK76Yg2HbFjWA',
+      'alias': 'urban-vintage-brooklyn',
+      'name': 'Urban Vintage',
+      'image_url': 'https://s3-media3.fl.yelpcdn.com/bphoto/2Sh17ddEaPyokvfWCIHBDA/o.jpg',
+      'is_closed': False,
+      'url': 'https://www.yelp.com/biz/urban-vintage-brooklyn?adjust_creative=YGos7XrPBDMYw8DquZpx1g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YGos7XrPBDMYw8DquZpx1g',
+      'review_count': 283,
+      'categories': [
+        {
+          'alias': 'coffee',
+          'title': 'Coffee & Tea'
+        }
+      ],
+      'rating': 4.5,
+      'coordinates': {
+        'latitude': 40.6879410741655,
+        'longitude': -73.9628667682618
+      },
+      'transactions': [
+        'pickup',
+        'delivery'
+      ],
+      'price': '$$',
+      'location': {
+        'address1': '294 Grand Ave',
+        'address2': '',
+        'address3': '',
+        'city': 'Brooklyn',
+        'zip_code': '11238',
+        'country': 'US',
+        'state': 'NY',
+        'display_address': [
+          '294 Grand Ave',
+          'Brooklyn, NY 11238'
+        ]
+      },
+      'phone': '+17187836045',
+      'display_phone': '(718) 783-6045',
+      'distance': 3287.4793563826693
+    },
+    {
+      'id': 'SWRz34fmNEDPcrngJMMo7Q',
+      'alias': 'butler-brooklyn',
+      'name': 'Butler',
+      'image_url': 'https://s3-media1.fl.yelpcdn.com/bphoto/_N74apVU_48PvLh6YlukTQ/o.jpg',
+      'is_closed': False,
+      'url': 'https://www.yelp.com/biz/butler-brooklyn?adjust_creative=YGos7XrPBDMYw8DquZpx1g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YGos7XrPBDMYw8DquZpx1g',
+      'review_count': 110,
+      'categories': [
+        {
+          'alias': 'bakeries',
+          'title': 'Bakeries'
+        },
+        {
+          'alias': 'cafes',
+          'title': 'Cafes'
+        },
+        {
+          'alias': 'breakfast_brunch',
+          'title': 'Breakfast & Brunch'
+        }
+      ],
+      'rating': 4.5,
+      'coordinates': {
+        'latitude': 40.7117670177852,
+        'longitude': -73.9646924963509
+      },
+      'transactions': [],
+      'price': '$$',
+      'location': {
+        'address1': '95 S 5th St',
+        'address2': None,
+        'address3': None,
+        'city': 'Brooklyn',
+        'zip_code': '11249',
+        'country': 'US',
+        'state': 'NY',
+        'display_address': [
+          '95 S 5th St',
+          'Brooklyn, NY 11249'
+        ]
+      },
+      'phone': '',
+      'display_phone': '',
+      'distance': 2592.1803299896737
+    },
+    {
+      'id': 'jZZMmT7Mk3S-fNjXcq3Ksg',
+      'alias': 'devocion-williamsburg',
+      'name': 'Devocion',
+      'image_url': 'https://s3-media2.fl.yelpcdn.com/bphoto/33rJ0M41qXFWuQOIF382Ow/o.jpg',
+      'is_closed': False,
+      'url': 'https://www.yelp.com/biz/devocion-williamsburg?adjust_creative=YGos7XrPBDMYw8DquZpx1g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YGos7XrPBDMYw8DquZpx1g',
+      'review_count': 437,
+      'categories': [
+        {
+          'alias': 'coffee',
+          'title': 'Coffee & Tea'
+        },
+        {
+          'alias': 'cafes',
+          'title': 'Cafes'
+        },
+        {
+          'alias': 'coffeeroasteries',
+          'title': 'Coffee Roasteries'
+        }
+      ],
+      'rating': 4.0,
+      'coordinates': {
+        'latitude': 40.716083,
+        'longitude': -73.964752
+      },
+      'transactions': [],
+      'price': '$$',
+      'location': {
+        'address1': '69 Grand St',
+        'address2': None,
+        'address3': '',
+        'city': 'Williamsburg',
+        'zip_code': '11249',
+        'country': 'US',
+        'state': 'NY',
+        'display_address': [
+          '69 Grand St',
+          'Williamsburg, NY 11249'
+        ]
+      },
+      'phone': '+17182856180',
+      'display_phone': '(718) 285-6180',
+      'distance': 2762.7656443327546
+    },
+    {
+      'id': 'S-619sO8qSxQcis0DBHvNw',
+      'alias': 'cafe-hanamizuki-new-york',
+      'name': 'Cafe Hanamizuki',
+      'image_url': 'https://s3-media2.fl.yelpcdn.com/bphoto/LpaAg0q1QA3o-Il6VQAeHQ/o.jpg',
+      'is_closed': False,
+      'url': 'https://www.yelp.com/biz/cafe-hanamizuki-new-york?adjust_creative=YGos7XrPBDMYw8DquZpx1g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YGos7XrPBDMYw8DquZpx1g',
+      'review_count': 541,
+      'categories': [
+        {
+          'alias': 'cafes',
+          'title': 'Cafes'
+        },
+        {
+          'alias': 'coffee',
+          'title': 'Coffee & Tea'
+        },
+        {
+          'alias': 'japanese',
+          'title': 'Japanese'
+        }
+      ],
+      'rating': 4.0,
+      'coordinates': {
+        'latitude': 40.7474471,
+        'longitude': -73.9915989
+      },
+      'transactions': [
+        'pickup',
+        'delivery'
+      ],
+      'price': '$$',
+      'location': {
+        'address1': '143 W 29th St',
+        'address2': '',
+        'address3': '',
+        'city': 'New York',
+        'zip_code': '10001',
+        'country': 'US',
+        'state': 'NY',
+        'display_address': [
+          '143 W 29th St',
+          'New York, NY 10001'
+        ]
+      },
+      'phone': '+12126955533',
+      'display_phone': '(212) 695-5533',
+      'distance': 4675.945620348032
+    },
+    {
+      'id': 'GlPJPpKvPR4d8dmcSEYpdA',
+      'alias': 'takahachi-bakery-new-york',
+      'name': 'Takahachi Bakery',
+      'image_url': 'https://s3-media2.fl.yelpcdn.com/bphoto/aoi0dkVvxooH8ZCFUC3lSA/o.jpg',
+      'is_closed': False,
+      'url': 'https://www.yelp.com/biz/takahachi-bakery-new-york?adjust_creative=YGos7XrPBDMYw8DquZpx1g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YGos7XrPBDMYw8DquZpx1g',
+      'review_count': 899,
+      'categories': [
+        {
+          'alias': 'bakeries',
+          'title': 'Bakeries'
+        },
+        {
+          'alias': 'japanese',
+          'title': 'Japanese'
+        },
+        {
+          'alias': 'coffee',
+          'title': 'Coffee & Tea'
+        }
+      ],
+      'rating': 4.0,
+      'coordinates': {
+        'latitude': 40.71393,
+        'longitude': -74.00822
+      },
+      'transactions': [],
+      'price': '$$',
+      'location': {
+        'address1': '25 Murray St',
+        'address2': '',
+        'address3': '',
+        'city': 'New York',
+        'zip_code': '10007',
+        'country': 'US',
+        'state': 'NY',
+        'display_address': [
+          '25 Murray St',
+          'New York, NY 10007'
+        ]
+      },
+      'phone': '+12127915550',
+      'display_phone': '(212) 791-5550',
+      'distance': 1511.7020935512141
+    },
+    {
+      'id': '1fDtQij01Mk92ZTGn6WHjg',
+      'alias': 'the-little-sweet-cafe-boerum-hill-2',
+      'name': 'The Little Sweet Cafe',
+      'image_url': 'https://s3-media2.fl.yelpcdn.com/bphoto/PxtbjoctqGuEpyZER5HfkQ/o.jpg',
+      'is_closed': False,
+      'url': 'https://www.yelp.com/biz/the-little-sweet-cafe-boerum-hill-2?adjust_creative=YGos7XrPBDMYw8DquZpx1g&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YGos7XrPBDMYw8DquZpx1g',
+      'review_count': 129,
+      'categories': [
+        {
+          'alias': 'coffee',
+          'title': 'Coffee & Tea'
+        }
+      ],
+      'rating': 4.5,
+      'coordinates': {
+        'latitude': 40.6881418,
+        'longitude': -73.9867324
+      },
+      'transactions': [
+        'pickup',
+        'delivery'
+      ],
+      'price': '$$',
+      'location': {
+        'address1': '77B Hoyt St',
+        'address2': '',
+        'address3': '',
+        'city': 'Boerum Hill',
+        'zip_code': '11201',
+        'country': 'US',
+        'state': 'NY',
+        'display_address': [
+          '77B Hoyt St',
+          'Boerum Hill, NY 11201'
+        ]
+      },
+      'phone': '+17188588998',
+      'display_phone': '(718) 858-8998',
+      'distance': 2026.8476632601842
+    }
+  ],
+  'total': 6300,
+  'region': {
+    'center': {
+      'longitude': -73.99429321289062,
+      'latitude': 40.70544486444615
+    }
+  }
+}
