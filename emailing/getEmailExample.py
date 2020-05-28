@@ -1,13 +1,18 @@
 ## Get email example
-import imapclient
+import os
 import pyzmail
+import imapclient
+
+## Variables
+email = os.environ['email']
+password = os.environ['password']
 
 ## Setup connection
 conn = imapclient.IMAPClient('imap.gmail.com', ssl=True)
 
 ## Authenticate
-conn.login(username='email',
-           password='password')
+conn.login(username=email,
+           password=password)
 
 ## Find an email folder
 conn.select_folder(folder='INBOX', readonly=True)
