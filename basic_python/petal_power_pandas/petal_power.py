@@ -2,7 +2,7 @@
 import pandas as pd
 
 ## Import data for Petal powers inventory
-inventory = pd.read_csv('Python_Programming/basic_python/petal_power_pandas/inventory.csv')
+inventory = pd.read_csv('basic_python/petal_power_pandas/inventory.csv')
 
 ## Print first ten rows
 print(inventory.head(10))

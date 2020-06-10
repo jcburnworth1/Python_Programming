@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import glob
 
 ## Capture all state files
-state_files = glob.glob('Python_Programming/basic_python/us_census_data_data_cleaning/states*.csv')
+state_files = glob.glob('basic_python/us_census_data_data_cleaning/states*.csv')
 
 ## Loop over state_files & add to state_list
 state_data = []

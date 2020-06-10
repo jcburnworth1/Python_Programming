@@ -1,5 +1,5 @@
 ## Import libraries
-import Python_Programming.statistical_examples.familiar_sample_tests.familiar as familiar
+import statistical_examples.familiar_sample_tests.familiar as familiar
 import numpy as np
 from scipy.stats import ttest_1samp
 from scipy.stats import ttest_ind

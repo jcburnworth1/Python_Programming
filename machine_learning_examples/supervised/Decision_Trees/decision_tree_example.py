@@ -1,5 +1,5 @@
 ## Import libraries
-from Python_Programming.machine_learning_examples.supervised.Decision_Trees.cars import training_points, training_labels, testing_points, testing_labels
+from machine_learning_examples.supervised.Decision_Trees.cars import training_points, training_labels, testing_points, testing_labels
 from sklearn.tree import DecisionTreeClassifier
 from matplotlib import pyplot as plt
 

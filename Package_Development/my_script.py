@@ -1,10 +1,10 @@
 ##### Playing with packages #####
 ## Direct import
-import Python_Programming.Package_Development.my_package.utils as utils
+import Package_Development.my_package.utils as utils
 utils.we_need_to_talk()
 
 ## Relative from __init__.py
-import Python_Programming.Package_Development.my_package as mp
+import Package_Development.my_package as mp
 mp.we_need_to_talk()
 
 ## Class import and instance of class

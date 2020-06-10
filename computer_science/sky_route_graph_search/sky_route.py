@@ -1,9 +1,9 @@
 ## Sky Route - CodeAcademy
 ## Import needed files
-from Python_Programming.computer_science.sky_route_graph_search.graph_search import bfs, dfs
-from Python_Programming.computer_science.sky_route_graph_search.vc_metro import vc_metro
-from Python_Programming.computer_science.sky_route_graph_search.vc_landmarks import vc_landmarks
-from Python_Programming.computer_science.sky_route_graph_search.landmark_choices import landmark_choices
+from computer_science.sky_route_graph_search.graph_search import bfs, dfs
+from computer_science.sky_route_graph_search.vc_metro import vc_metro
+from computer_science.sky_route_graph_search.vc_landmarks import vc_landmarks
+from computer_science.sky_route_graph_search.landmark_choices import landmark_choices
 
 # Build your program below:
 ## Put together all landmark choices in a giant string

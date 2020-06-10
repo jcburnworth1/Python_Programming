@@ -1,5 +1,5 @@
 ## Import libraries
-import Python_Programming.statistical_examples.nosh_mish_mosh_minimum_effect.nosh_mish_mosh as nosh_mish_mosh
+import statistical_examples.nosh_mish_mosh_minimum_effect.nosh_mish_mosh as nosh_mish_mosh
 import numpy as np
 
 ## Load data

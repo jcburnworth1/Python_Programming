@@ -5,7 +5,7 @@ import numpy as np
 cupcakes = np.array([2, 0.75, 2, 1, 0.5])
 
 ## Read in the data
-recipes = np.genfromtxt('Python_Programming/basic_python/bettys_bakery_numpy/recipes.csv', delimiter=',')
+recipes = np.genfromtxt('basic_python/bettys_bakery_numpy/recipes.csv', delimiter=',')
 
 ## Print out recipes
 print(recipes)

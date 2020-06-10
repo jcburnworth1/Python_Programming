@@ -7,7 +7,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 
 ## Read in the data
-streeteasy = pd.read_csv("Python_Programming/machine_learning_examples/supervised/Regression/rental_data.csv")
+streeteasy = pd.read_csv("machine_learning_examples/supervised/Regression/rental_data.csv")
 
 ## Copy the streeteasy data
 df = pd.DataFrame(streeteasy)

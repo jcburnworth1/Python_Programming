@@ -3,7 +3,7 @@ def warn(*args, **kwargs):
     pass
 import warnings
 warnings.warn = warn
-from Python_Programming.machine_learning_examples.supervised.Random_Forest.cars import training_points, training_labels, testing_points, testing_labels
+from machine_learning_examples.supervised.Random_Forest.cars import training_points, training_labels, testing_points, testing_labels
 from sklearn.ensemble import RandomForestClassifier
 
 ## Create our random forest classifier

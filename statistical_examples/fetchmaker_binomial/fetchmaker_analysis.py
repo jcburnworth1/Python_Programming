@@ -1,5 +1,5 @@
 ## Import libraries
-import Python_Programming.statistical_examples.fetchmaker_binomial.fetchmaker as fetchmaker
+import statistical_examples.fetchmaker_binomial.fetchmaker as fetchmaker
 import numpy as np
 from scipy.stats import binom_test
 from scipy.stats import f_oneway

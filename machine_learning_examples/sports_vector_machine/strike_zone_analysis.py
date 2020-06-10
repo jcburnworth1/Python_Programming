@@ -5,9 +5,9 @@ from sklearn.model_selection import train_test_split
 import pandas as pd
 
 ## Read in the data
-aaron_judge = pd.read_csv('Python_Programming/machine_learning_examples/sports_vector_machine/aaron_judge.csv')
-jose_altuve = pd.read_csv('Python_Programming/machine_learning_examples/sports_vector_machine/jose_altuve.csv')
-david_ortiz = pd.read_csv('Python_Programming/machine_learning_examples/sports_vector_machine/david_ortiz.csv')
+aaron_judge = pd.read_csv('machine_learning_examples/sports_vector_machine/aaron_judge.csv')
+jose_altuve = pd.read_csv('machine_learning_examples/sports_vector_machine/jose_altuve.csv')
+david_ortiz = pd.read_csv('machine_learning_examples/sports_vector_machine/david_ortiz.csv')
 
 ## Explore the data
 ## Column names

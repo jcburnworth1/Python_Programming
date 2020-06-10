@@ -1,7 +1,7 @@
 # from reviews import counter, training_counts
 import pickle
-counter = pickle.load( open( "Python_Programming/machine_learning_examples/natural_language_processing/count_vect.p", "rb" ) )
-training_counts =  pickle.load( open( "Python_Programming/machine_learning_examples/natural_language_processing/count_vect.p", "rb" ))
+counter = pickle.load( open( "machine_learning_examples/natural_language_processing/count_vect.p", "rb" ) )
+training_counts =  pickle.load( open( "machine_learning_examples/natural_language_processing/count_vect.p", "rb" ))
 
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
