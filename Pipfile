@@ -21,6 +21,8 @@ statsmodels = "*"
 bs4 = "*"
 selenium = "*"
 pyspark = "*"
+pyspark-stubs = "==3.0.0.dev8"
+psutil = "*"
 
 [requires]
 python_version = "2.7"
