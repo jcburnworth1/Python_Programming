@@ -72,7 +72,7 @@ Rdd_Reduced = Rdd.reduceByKey(lambda x, y: x + y)
 
 # Iterate over the result and print the output
 for num in Rdd_Reduced.collect():
-  print("Key {} has {} Counts".format(num[0], num[1]))
+    print("Key {} has {} Counts".format(num[0], num[1]))
 
 ## SortBykey & Collect
 # Sort the reduced RDD with the key by descending order
@@ -126,7 +126,7 @@ resultRDD = splitRDD_no_stop_words.reduceByKey(lambda x, y: x + y)
 
 # Display the first 10 words and their frequencies
 for word in resultRDD.take(10):
-	print(word)
+    print(word)
 
 # Swap the keys and values
 resultRDD_swap = resultRDD.map(lambda x: (x[1], x[0]))
@@ -136,4 +136,4 @@ resultRDD_swap_sort = resultRDD_swap.sortByKey(ascending=False)
 
 # Show the top 10 most frequent words and their frequencies
 for word in resultRDD_swap_sort.take(10):
-	print("{} has {} counts". format(word[1], word[0]))
+    print("{} has {} counts". format(word[1], word[0]))
