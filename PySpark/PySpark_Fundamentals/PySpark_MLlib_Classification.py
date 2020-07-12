@@ -10,8 +10,8 @@ sc = SparkContext('local', 'spark_app')
 spark = SparkSession.builder.getOrCreate()
 
 ##### Load the Spam Dataset ####
-file_path_spam = 'PySpark/spam.txt'
-file_path_non_spam = 'PySpark/ham.txt'
+file_path_spam = 'PySpark/PySpark_Fundamentals/spam.txt'
+file_path_non_spam = 'PySpark/PySpark_Fundamentals/ham.txt'
 
 ## Load the datasets into RDDs
 spam_rdd = sc.textFile(file_path_spam)

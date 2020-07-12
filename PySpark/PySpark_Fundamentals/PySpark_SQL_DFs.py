@@ -22,7 +22,7 @@ names_df = spark.createDataFrame(rdd, schema=['Name', 'Age'])
 print("The type of names_df is", type(names_df))
 
 ##### Setup the DataFrame from File #####
-file_path = 'PySpark/people.csv'
+file_path = 'PySpark/PySpark_Fundamentals/people.csv'
 
 ## Create an DataFrame from file_path
 people_df = spark.read.csv(file_path, header=True, inferSchema=True)
@@ -98,7 +98,7 @@ df_pandas.plot(kind='barh', x='Name', y='Age', colormap='winter_r')
 plt.show()
 
 ##### Plotting from CSV #####
-file_path = 'PySpark/Fifa2018_dataset.csv'
+file_path = 'PySpark/PySpark_Fundamentals/Fifa2018_dataset.csv'
 
 ## Load the Dataframe
 fifa_df = spark.read.csv(file_path, header=True, inferSchema=True)

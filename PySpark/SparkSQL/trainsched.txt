@@ -1,0 +1,15 @@
+train_id,station,time,diff_min
+217,Gilroy,6:06a,9.0
+217,San Martin,6:15a,6.0
+217,Morgan Hill,6:21a,15.0
+217,Blossom Hill,6:36a,6.0
+217,Capitol,6:42a,8.0
+217,Tamien,6:50a,9.0
+217,San Jose,6:59a,
+324,San Francisco,7:59a,4.0
+324,22nd Street,8:03a,13.0
+324,Millbrae,8:16a,8.0
+324,Hillsdale,8:24a,7.0
+324,Redwood City,8:31a,6.0
+324,Palo Alto,8:37a,28.0
+324,San Jose,9:05a,

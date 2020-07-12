@@ -11,7 +11,7 @@ sc = SparkContext('local', 'spark_app')
 spark = SparkSession.builder.getOrCreate()
 
 ##### Load the Points Dataset ####
-file_path = 'PySpark/5000_points.txt'
+file_path = 'PySpark/PySpark_Fundamentals/5000_points.txt'
 
 ## Load the dataset into a RDD
 clusterRDD = sc.textFile(file_path)

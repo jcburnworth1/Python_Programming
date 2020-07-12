@@ -8,7 +8,7 @@ sc = SparkContext('local', 'spark_app')
 spark = SparkSession.builder.getOrCreate()
 
 ##### Load the Movies Dataset ####
-file_path = 'PySpark/ratings.csv'
+file_path = 'PySpark/PySpark_Fundamentals/ratings.csv'
 
 ## Load the data into RDD
 data = sc.textFile(file_path)
