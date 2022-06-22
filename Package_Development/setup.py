@@ -7,5 +7,5 @@ setup(name='my_package',
       author_email='jcburnworth1@gmail.com',
       packages=['my_package'],
       install_requires=['matplotlib',
-                        'numpy==1.15.4',
+                        'numpy==1.22.0',
                         'pycodestyle>=2.4.0'])
